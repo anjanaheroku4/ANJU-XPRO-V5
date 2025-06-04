@@ -45,9 +45,9 @@ module.exports = {
     process.env.SESSION_ID ||
     "ANJU-XPRO~8y9lUAAY#owJperN_JtJRRrd9tJczQD6b11ViTeGEtiINB6iFfk0",
   BOT_NUMBER:
-    process.env.BOT_NUMBER || "0760105256",
+    process.env.BOT_NUMBER || "0726884134",
   PASSWORD: 
-    process.env.PASSWORD || "Anjana8544@",
+    process.env.PASSWORD || "854454",
   SUDO: process.env.SUDO
     ? process.env.SUDO.split(",")
     : ["94750177369", "94758775628"],
